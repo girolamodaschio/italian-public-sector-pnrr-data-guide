@@ -13,6 +13,7 @@ resources:
 ---
 ::: {.callout-note}
 ## Stato della fonte dati
+Non sempre i servizi sono funzionanti.
 <img alt="30-day uptime 92.65%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgirolamodaschio%2Fupptime%2FHEAD%2Fapi%2Fministero-dei-trasporti-portale-open-data%2Fuptime-month.json"></a>
 :::
 

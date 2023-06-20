@@ -8,6 +8,7 @@ format:
 ---
 
 ## Nota introduttiva su questo vademecum
+Test modifiche
 
 Questo progetto è stato creato per rispondere a un'**emergenza informativa**: la **mancanza** di **dati aggiornati** e di **dettaglio** sul **sito ufficiale** dedicato al **PNRR** ([Italiadomani](https://www.italiadomani.gov.it/)).<br>
 La sua **prima versione** è di inizio **marzo del 2023**.
